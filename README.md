@@ -7,11 +7,13 @@ This Repository contains different Ansible playbooks and examples that help in l
 Playbooks<br>
 Ansible Modules<br>
 Variables<br>
+Variable Precedence<br>
 Data Types<br> 
 Loops<br>
 Conditions<br>
 Filters<br>
-
+Error Handling<br>
+Idempotency
 
 
 
