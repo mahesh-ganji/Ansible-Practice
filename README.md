@@ -4,13 +4,14 @@ This Repository contains different Ansible playbooks and examples that help in l
 
 # Topics Covered
 
+Playbooks<br>
 Ansible Modules<br>
-Loops<br>
 Variables<br>
 Data Types<br> 
+Loops<br>
 Conditions<br>
 Filters<br>
-Playbooks<br>
+
 
 
 
